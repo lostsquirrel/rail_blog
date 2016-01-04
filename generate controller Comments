@@ -1,0 +1,117 @@
+[33mcommit 550fb373d65c582d3adfdacfa0759f9289e5624e[m
+Author: lostsquirrel <songli1988@gmail.com>
+Date:   Mon Jan 4 11:35:54 2016 +0800
+
+    init project
+
+[33mcommit a4af2233d878b3df23bc170ec64d0dee96ca6a1a[m
+Author: lostsquirrel <songli1988@gmail.com>
+Date:   Wed Dec 30 20:45:42 2015 +0800
+
+    add custom layout for posts
+
+[33mcommit 0be228c48252b132881054d7bbd5ddd21426070f[m
+Author: lostsquirrel <songli1988@gmail.com>
+Date:   Wed Dec 30 20:11:42 2015 +0800
+
+    6 Creating a Resource
+
+[33mcommit 2590330cec1b19440929ae3c9969c15128bc96a4[m
+Author: lostsquirrel <songli1988@gmail.com>
+Date:   Wed Dec 30 11:39:48 2015 +0800
+
+    create branch with ruby on rails 3.2
+
+[33mcommit c0f0d01af64de63c058d03658f09c3b36d7a091a[m
+Merge: d1c377d 48883bd
+Author: lostsquirrel <songli1988@gmail.com>
+Date:   Tue Dec 29 17:48:51 2015 +0800
+
+    Merge branch 'master' of github.com:lostsquirrel/rail_blog
+
+[33mcommit d1c377d9c048f40f44afb705da3b958728b4c034[m
+Author: lostsquirrel <songli1988@gmail.com>
+Date:   Tue Dec 29 17:48:37 2015 +0800
+
+    sync .gitignore
+
+[33mcommit 48883bdc4a0d5896a6ea5ac9d3aa4f773540d876[m
+Author: lostsquirrel <lostsquirreli@hotmail.com>
+Date:   Tue Dec 29 17:35:12 2015 +0800
+
+    Initial commit
+
+[33mcommit 94d8f3f80442b16c04b32208a0660f8acdc66d1d[m
+Author: lostsquirrel <songli1988@gmail.com>
+Date:   Tue Dec 29 14:35:37 2015 +0800
+
+    8.1 Deleting Associated Objects
+
+[33mcommit dab90d22e92539c20f6b1dbba71ab182431601f2[m
+Author: lostsquirrel <songli1988@gmail.com>
+Date:   Tue Dec 29 13:40:34 2015 +0800
+
+    8 Deleting Comments
+
+[33mcommit 7688c3691eba9fa6beac2ec88ae73bcfe2cab63e[m
+Author: lostsquirrel <songli1988@gmail.com>
+Date:   Tue Dec 29 13:35:15 2015 +0800
+
+    7 Refactoring
+    7.1 Rendering Partial Collections
+
+[33mcommit 1b3020ffb875e07b9f8a8473bdee1f2a0f733908[m
+Author: lostsquirrel <songli1988@gmail.com>
+Date:   Tue Dec 29 13:32:10 2015 +0800
+
+    6.4 Generating a Controller
+
+[33mcommit 58147b791944ca69750b73f00b5384f5d1c8ee27[m
+Author: lostsquirrel <songli1988@gmail.com>
+Date:   Tue Dec 29 13:23:07 2015 +0800
+
+    6.3 Adding a Route for Comments
+
+[33mcommit 270713c5ba87b11de96350a7830a8e1a47fcc9f4[m
+Author: lostsquirrel <songli1988@gmail.com>
+Date:   Tue Dec 29 13:20:58 2015 +0800
+
+    6.2 Associating Models
+
+[33mcommit 5b6a45485b24f9cb3d1dbf88e556681327dc20df[m
+Author: lostsquirrel <songli1988@gmail.com>
+Date:   Tue Dec 29 13:18:19 2015 +0800
+
+    6 Adding a Second Model
+    
+    6.1 Generating a Model
+
+[33mcommit 66e875ebeb01eae607043bb9dcdb8107d93104f9[m
+Author: lostsquirrel <songli1988@gmail.com>
+Date:   Tue Dec 29 11:49:49 2015 +0800
+
+    5.13 Deleting Articles
+
+[33mcommit 8d5d0ac8c207bebfc6995b55947363169e3613e2[m
+Author: lostsquirrel <songli1988@gmail.com>
+Date:   Tue Dec 29 10:59:47 2015 +0800
+
+    5.12 Using partials to clean up duplication in views
+
+[33mcommit 26f9a8547e82745c64186cf0c7a28ac75123c9b0[m
+Author: lostsquirrel <songli1988@gmail.com>
+Date:   Tue Dec 29 10:54:52 2015 +0800
+
+    5.11 Updating Articles
+
+[33mcommit e142e3ca6e61c70313005946ff12b344dbbdb826[m
+Author: lostsquirrel <songli1988@gmail.com>
+Date:   Tue Dec 29 10:43:44 2015 +0800
+
+    5.10 Adding Some Validation
+
+[33mcommit cdd7e91cbd71efe015f92681ae1b8e8091ab5337[m
+Author: lostsquirrel <songli1988@gmail.com>
+Date:   Tue Dec 29 10:26:46 2015 +0800
+
+    rails get started till 5.9 Adding links
