@@ -1,0 +1,1 @@
+Blog::Application.config.secret_token = "b661ac9f84715ed687de9e4b4d412e3368cf70cc17ba188cbfea8da053e0594016d75aa79d60d28a9d5f92e1cc32ca05a7db9380bd354b4a22a45e831b89ff11"
