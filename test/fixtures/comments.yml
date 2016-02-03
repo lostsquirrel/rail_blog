@@ -3,7 +3,7 @@
 one:
   commenter: MyString
   body: MyText
-  post: 
+  post: Post(:one)
 
 two:
   commenter: MyString

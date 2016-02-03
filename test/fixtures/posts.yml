@@ -1,11 +1,42 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+<% earth_size = 0 %>
 
-one:
-  name: MyString
-  title: MyString
-  content: MyText
+p1:
+  name: poster name <%= earth_size += 1 %>
+  title: post title <%= earth_size += 1 %>
+  content: post content <%= earth_size += 1 %>
 
-two:
-  name: MyString
-  title: MyString
-  content: MyText
+p2:
+  name: poster name <%= earth_size += 1 %>
+  title: post title <%= earth_size += 1 %>
+  content: post content <%= earth_size += 1 %>
+
+p3:
+  name: poster name <%= earth_size += 1 %>
+  title: post title <%= earth_size += 1 %>
+  content: post content <%= earth_size += 1 %>
+
+p4:
+  name: poster name <%= earth_size += 1 %>
+  title: post title <%= earth_size += 1 %>
+  content: post content <%= earth_size += 1 %>
+
+p5:
+  name: poster name <%= earth_size += 1 %>
+  title: post title <%= earth_size += 1 %>
+  content: post content <%= earth_size += 1 %>
+
+p6:
+  name: poster name <%= earth_size += 1 %>
+  title: post title <%= earth_size += 1 %>
+  content: post content <%= earth_size += 1 %>
+
+p7:
+  name: poster name <%= earth_size += 1 %>
+  title: post title <%= earth_size += 1 %>
+  content: post content <%= earth_size += 1 %>
+
+p8:
+  name: poster name <%= earth_size += 1 %>
+  title: post title <%= earth_size += 1 %>
+  content: post content <%= earth_size += 1 %>
